@@ -22,7 +22,7 @@ defmodule Raven.Mixfile do
 
   defp deps do
     [
-      {:hackney, "~> 1.3"},
+      {:hackney, "~> 1.6"},
       {:uuid, "~> 1.0"},
       {:poison, "~> 2.0"}
     ]
